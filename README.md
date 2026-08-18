@@ -1,5 +1,9 @@
 # Content Execution Architecture (CE-OS) Specification
 
+[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
+[![Specification: CE-OS](https://img.shields.io/badge/Spec-CE--OS%20v1.0-success.svg)](#)
+[![Status: Active](https://img.shields.io/badge/Status-Maintained-brightgreen.svg)](#)
+
 A standardized open framework for unifying brand strategy, AI-assisted asset generation, and multi-channel campaign orchestration for modern lifestyle and direct-to-consumer (DTC) brands.
 
 ---
