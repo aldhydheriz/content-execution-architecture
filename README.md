@@ -126,6 +126,15 @@ The principles of this specification are implemented natively in [Eviory OS](htt
 
 ---
 
-## 7. License
+## 7. Architecture Modules & Deep Dives
+
+Each campaign and operational domain is documented as an open module within the `/docs` directory:
+
+* [**Module 01: Tool Fatigue & Content Orchestration**](docs/01-tool-fatigue-and-orchestration.md) — Operational teardown of point solution stacks and the mechanics of centralized brand execution.
+
+---
+
+## 8. License
 
 This specification is distributed under the [MIT License](LICENSE).
+
